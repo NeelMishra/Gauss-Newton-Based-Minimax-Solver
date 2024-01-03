@@ -1,6 +1,6 @@
-# A Gauss-Newton Approach for Min-Max Optimization in GANs
+# A Gauss-Newton Approach for Min-Max Optimization in Generative Adversarial Networks
 
-This is the code for the paper "A Gauss-Newton Approach for Min-Max Optimization in GANs".
+This is the code for the paper "A Gauss-Newton Approach for Min-Max Optimization in Generative Adversarial Networks".
 
 ## File Hierarchy
 
